@@ -1,0 +1,4 @@
+# Este archivo es un placeholder para la librería iText PDF
+# Necesitas descargar itextpdf-5.5.13.3.jar desde:
+# https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.5.13.3
+# O usar una versión más reciente compatible con Java 17
